@@ -6,5 +6,5 @@ This repository is built step by step in the tutorial.
 all done well with the help of w3 school website instractions.
 so thanks 
 made changes for pull command in git
+branch 1 merging testing 
 new branch oppened for push to github from a local branch named update-readme.
-
